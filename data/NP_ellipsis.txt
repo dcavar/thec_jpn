@@ -1,0 +1,149 @@
+# NP_ellipsis.txt
+# (C) 2023 by Soyoung Kim <sk135@iu.edu> and John Phillips <phillip2@iu.edu>
+# language: jpn
+# Notes: Gathered from various examples accross the web. All sources will be given in comments.
+# These are all grammatical examples. The elided positions are indicated by ___.
+# The below paper was consulted in the construction of grammatical Japanese sentences with NP ellipses:
+# Only elliding noun
+
+
+Susan ga shousetsu wo ni-hon yondakara, John wa ____ sanbon yonda
+----
+Susan ga shousetsu wo ni-hon yondakara, John wa shousetsu wo sanbon yonda
+# Translation: John read three novels because Susan read two. 
+# Added by Soyoung Kim
+
+
+John ga shousetsu wo sanbon yonda. Soshite susan ga ___ nihon yonda
+----
+John ga shousetsu wo sanbon yonda. Soshite susan ga shousetsu wo nihon yonda
+# Translation: John read three novels, and Susan read two.
+# Added by Soyoung Kim
+
+
+John ga shousetsu sanbon wo yonda. Soshite Susan ga ___ nihon wo yonda
+----
+John ga shousetsu sanbon wo yonda. Soshite susan ga shousetsu nihon wo yonda
+# Translation: John read three novels, and Susan read two.
+# Added by Soyoung Kim
+
+
+John ga shousetsu wo sanbon yonde, Susan ga ___ nihon yonda
+----
+John ga shousetsu wo sanbon yonde, susan ga shousetsu wo nihon yonda
+# Translation: John read three novels, and Susan read two.
+# Added by Soyoung Kim
+
+
+
+John ga Mary no ringo wo tabete, Susan ga Bill no ___ wo tabeta
+----
+John ga Mary no ringo wo tabete, Susan ga Bill no ringo wo tabeta
+# Translation: John ate Mary's apple, and Susan ate Bill's. 
+# Added by Soyoung Kim
+
+
+John ga Mary no ringo wo tabeta. Soshite Susan ga Bill no ___ wo tabeta
+----
+John ga Mary no ringo wo tabeta. Soshite Susan ga Bill no ringo wo tabeta
+# Translation: John ate Mary's apple, and Susan ate Bill's. 
+# Added by Soyoung Kim
+
+
+Taroo no taidou wa yoi ga Hanako no ___ wa yoku nai
+----
+Taroo no taidou wa yoi ga Hanako no taidou wa yoku nai
+# Translation: Taro’s attitude is good, but Hanako’s isn’t.
+# Adapted from (Saito, Lin, and Murasugi 2008:253)
+# Added by Soyoung Kim
+
+
+Amerika gun wa nijyu ppun no kogeiki wo keikakushita ga, nihon gun wa rokuju ppun no ___ keikakusita
+----
+Amerika gun wa nijyu ppun no kogeiki wo keikakushita ga, nihon gun wa rokuju ppun no kougeki wo keikakusita
+# Lit. translation: the U.S. army planned an attack of 20 minutes, but the Japanese army planned an attack of 60 minutes.
+# Adapted from (Takahashi 2011:144)
+# Added by Soyoung Kim
+
+
+Taroo wa yon satsu no hon wo katta ga, sonouchi ni satsu ___ sudeni yomioeta
+----
+Taroo wa youn satsu no hon wo katta ga, sonouchi ni satsu no hon wo sudeni yomioeta
+# Translation: Taro bought four books, but he already finished reading two of them.
+# Adapted from Watanabe (2010:65)
+# Added by Soyoung Kim
+
+
+Taroo wa san nin no sensei wo sonkeishiteiru. Hanako mo ___ sonkeishiteiru
+----
+Taroo wa san nin no sensei wo sonkeishiteiru. Hanako mo sannin no sensei wo sonkeishiteiru
+# Translation: Taro respects three teachers. Hanako respects three teachers also.
+# Adated from Ener and Takahashi (2010:81–82)
+# Added by Soyoung Kim
+
+
+
+Taroo wa hirugohan wo tabeta. Hanako mo ___ tabeta 
+----
+Taroo wa hirugohan wo tabeta. Hanako mo hirugohan wo tabeta
+# Translation eng: Taroo ate lunch. Hanako also ate lunch.
+# Added by John Phillips
+
+
+
+
+Taroo wa jibun no kuni ni kaetta. Mari mo ___ kaetta
+----
+Taroo wa jibun no kuni ni kaetta. Mari mo jibun no kuni ni kaetta
+# Translation eng: Taroo went home to his country. Mari also went home to her country.
+# Added by John Phillips
+
+
+
+
+Taroo wa zasshi wo yonda. Mari mo ___ yonda
+----
+Taroo wa zasshi wo yonda. Mari mo zasshi wo yonda
+# Translation eng: Taroo read a magazine. Mari also read a magazine.
+# Added by John Phillips
+
+
+
+
+Takeshi wa Hiromi no suki na keeki wo tsukutta. Taroo mo ___ tsukutta
+----
+Takeshi wa Hiromi no suki na keeki wo tsukutta. taroo mo Hiromi ga suki da keeki wo tsukutta
+# Added by John Phillips - grammar adjusted by Soyoung Kim
+# Translation eng: Takeshi made the cake that hiromi likes. Taroo also made (the cake that hiromi likes)
+
+
+
+Takeshi wa ao ga suki. Taroo mo ___ suki
+----
+Takeshi wa ao ga suki. Taroo mo ao ga suki.
+# Added by John Phillips
+# Translation eng: Takeshi likes blue. Taroo also likes (blue)
+
+
+
+Takeshi wa Hokkaido de tsukutta raamen wo tabeta. Taroo mo ___ tabeta
+----
+Takeshi wa Hokkaido de tsukutta raamen wo tabeta. Taroo mo Hokkaido de tsukutta raamen wo tabeta
+# Added by John Phillips
+# Translation eng: Takeshi ate the raamen that was made in Hokkaido. 
+
+
+
+Takeshi wa watashi ni sumaho wo kureta. Taroo mo ___ kureta.
+----
+Takeshi wa watashi ni sumaho wo kureta. Taroo mo watashi ni sumaho wo kureta.
+# Added by John Phillips
+# Translation eng: Takeshi gave me a smartphone. Taroo also gave (me a smartphone)
+
+
+
+Takeshi ga watashi no haha ga watashi ni kureta seetaa wo kiragatteiru. Taroo mo ___ kiragatteiru.
+----
+Takeshi ga watashi no haha ga watashi ni kureta seetaa wo kirai. Taroo mo watashi no haha ga watashi ni kureta seetaa ga kirai
+# Added by John Phillips - grammar adjusted by Soyoung Kim
+# Translation eng: Takeshi hates the sweater that my mom gave me. Taroo also hates (the sweater that my mom gave me)

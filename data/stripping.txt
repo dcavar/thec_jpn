@@ -1,0 +1,154 @@
+# stripping.txt
+# (C) 2023 by Soyoung Kim <sk135@iu.edu> and John Phillips <phillip2@iu.edu>
+# language: jpn
+# Notes: Gathered from various examples accross the web. All sources will be given in comments.
+# These are all grammatical examples. The elided positions are indicated by ___.
+# The below paper was consulted in the construction of grammatical Japanese sentences with stripping:
+# https://www.seiryo-u.ac.jp/u/research/gakkai/ronbunlib/j_ronsyu_pdf/no44/11_mori.pdf#:~:text=There%20are%20two%20types%20of%20VP%20ellipses%20in,soo-da%20-also%20so-affir.pres.%20%28Marsaru%20is%20so%2C%20too.%29%204a.
+
+
+
+Hiroshi ga tegami wo suteta. Masaru mo ___ da
+----
+Hiroshi ga tegami wo suteta. Masaru mo tegami wo suteta
+# Adapted from https://www.seiryo-u.ac.jp/u/research/gakkai/ronbunlib/j_ronsyu_pdf/no44/11_mori.pdf#:~:text=There%20are%20two%20types%20of%20VP%20ellipses%20in,soo-da%20-also%20so-affir.pres.%20%28Marsaru%20is%20so%2C%20too.%29%204a.
+# Translation eng: Hiroshi threw away the letters, and masaru also (threw away the letters)
+# Added by John Phillips
+
+
+
+Hiroshi ga bijutsu-hin wo tokashita. Masaru mo ___ da
+----
+Hiroshi ga bijutsu-hin wo tokashita. Masaru mo bijutsu-hin wo tokashita
+# Adapted from https://www.seiryo-u.ac.jp/u/research/gakkai/ronbunlib/j_ronsyu_pdf/no44/11_mori.pdf#:~:text=There%20are%20two%20types%20of%20VP%20ellipses%20in,soo-da%20-also%20so-affir.pres.%20%28Marsaru%20is%20so%2C%20too.%29%204a.
+# Translation eng: Hiroshi melted the painting, and masaru also (melted a painting)
+# Added by John Phillips
+
+
+
+
+Hiroshi ga sandoicchi wo tabeta. Masaru mo ___ da
+----
+Hiroshi ga sandoicchi wo tabeta. Masaru mo sandoicchi wo tabeta
+# Added by John Phillips
+# Translation eng: Hiroshi ate a sandwich. Masaru also (ate a sandwich)
+
+
+
+Hiroshi ga enpitsu wo otta. Masaru mo ___ da
+----
+Hiroshi ga enpitsu wo otta. Masaru mo enpitsu wo otta
+# Added by John Phillips
+# Translation eng: Hiroshi broke a pencil. Masaru also (broke a pencil)
+
+
+
+John ga gitaa wo hiita. Mary mo ____ da
+----
+John ga gitaa wo hiita. Mary mo gitaa wo hiita.
+# Translation: John played a guitar. Mary also
+# Added by Soyoung Kim
+
+
+
+Hiroshi ga eiga wo mita. Masaru mo ___ da
+----
+Hiroshi ga eiga wo mita. Masaru mo eiga wo mita
+# Translation eng: Hiroshi watched a movie. Masaru also (watched a movie)
+# Added by John Phillips
+
+
+
+Takeshi wa kami ga kitta. Hiromi mo ___ da
+----
+Takeshi wa kami ga kitta. Hiromi mo kami ga kitta
+# Added by John Phillips
+# Translation eng: Takeshi got a haircut, and Hiromi also (got a haircut)
+
+
+
+Takeshi ga raamen wo chuumonshita. Chikaku no hito mo ___ da
+----
+Takeshi ga raamen wo chuumonshita. Chikaku no hito mo raamen wo chuumonshita
+# Added by John Phillips (adjusted by Soyoung as the original example was NP ellipsis)
+# Translation eng: Takeshi ordered ramen. Someone nearby also (ordered ramen)
+
+
+
+Takeshi ga hashitta. Hanako mo ___ da
+----
+Takeshi ga hashitta. Hanako mo hashitta
+# Added by John Phillips
+# Translation eng: Takeshi ran. Hanako also (ran)
+
+
+
+Takeshi ga toukyou daigaku ni itta hito to atta. Hiroshi mo ___ da
+----
+Takeshi ga toukyou daigaku ni itta hito to atta. Hiroshi mo toukyou daigaku ni itta hito to atta
+# Added by John Phillips
+# Translation eng: Takeshi met the person who went to tokyo university. Hiroshi also (met the person who went to tokyo university)
+
+
+
+Takeshi ga iroiro na sushi wo tabeta. Masaru mo ___ da
+----
+Takeshi ga iroiro na sushi wo tabeta. Masaru mo iroiro na sushi wo tabeta
+# Added by John Phillips
+# Translation eng: Takeshi ate many different types of sushi. Masaru also (ate many different types of sushi) 
+
+
+
+Takeshi ga hoteru wo yoyakushita. Kaori mo ___ da
+----
+Takeshi ga hoteru wo yoyakushita. Kaori mo hoteru wo yoyakushita
+# Added by John Phillips 
+# Translation eng: Takeshi booked a hotel. Kaori also (booked a hotel)
+
+
+
+Takeshi ga asoko de shinda. Masaru mo ___ da
+----
+Takeshi ga asoko de shinda. Masaru mo asoko de shinda
+# Added by John Phillips
+# Translation eng: Takeshi died there. Masaru also (died there)
+
+
+
+Takeshi ga utatta. Kaori mo ___ da
+----
+Takeshi ga utatta. Kaori mo utatta
+# Added by John Phillips
+# Takeshi sang. Kaori also sang
+
+
+
+Takeshi ga jugyou wo sabotta. Kaori mo ___ da
+----
+Takeshi ga jugyou wo sbotta. Kaori mo jugyou wo sabotta
+# Added by John Phillips
+# Translation eng: Takeshi skipped class. Kaori also (skipped class)
+
+
+
+Takeshi ga amerika de sundeiru. Kaori mo ___ da
+----
+Takeshi ga amerika de sundeiru. Kaori mo amerika de sundeiru
+# Added by John Phillips
+# Translation eng: Takeshi lives in America. Kaori also (lives in America)
+
+
+
+Takeshi wa amaimono ga suki da. Kaori mo ___ da
+----
+Takeshi wa amaimono ga suki da. Kaori mo amaimono ga suki da.
+# Added by John Phillips
+# Translation eng: Takeshi likes sweet things. Kaori also (likes sweet things)
+
+
+
+Takeshi ga shyatsu wo kita. Kaori mo ___ da
+----
+Takeshi ga shyatsu wo kita. Kaori mo shyatsu wo kita.
+# Added by John Phillips
+# Takeshi wore a shirt. Kaori also (wore a shirt)

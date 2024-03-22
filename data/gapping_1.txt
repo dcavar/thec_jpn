@@ -1,0 +1,277 @@
+# gapping_1.txt
+# (C) 2023 by Soyoung Kim <sk135@iu.edu> and John Phillips <phillip2@iu.edu>
+# language: jpn
+# Notes: Gathered from various examples accross the web. All sources will be given in comments.
+# These are all grammatical examples. The elided positions are indicated by ___.
+# The below paper was consulted in the construction of grammatical Japanese sentences with gapping:
+# https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/8434/3231045.pdf?sequence=1&isAllowed=y
+
+
+
+Takeshi ga ringo wo ___, soshite Kaori ga hon wo katta
+----
+Takeshi ga ringo wo katta, soshite Kaori ga hon wo katta
+# Adapted from https://conf.ling.cornell.edu/nels39/NELS-39Abstracts/123-GappingIn.pdf#:~:text=Gapping%20in%20Japanese%2C%20illustrated%20in%20%281%29%2C%20is%20best,the%20anaphoric%20theory%20of%20deletion%20presented%20in%20Williams.
+# Translation eng: Takeshi (bought) an apple, and Kaori bought a book
+
+
+
+Takeshi ga zasshi wo ___, soshite Kaori ga hon wo katta
+----
+Takeshi ga zasshi wo katta kara, Kaori ga hon wo katta
+# Adapted from https://conf.ling.cornell.edu/nels39/NELS-39Abstracts/123-GappingIn.pdf#:~:text=Gapping%20in%20Japanese%2C%20illustrated%20in%20%281%29%2C%20is%20best,the%20anaphoric%20theory%20of%20deletion%20presented%20in%20Williams.
+# Translation eng: Because Takeshi (bought) a magazine, Kaori bought a book
+
+
+
+Takeshi ga kono riyuu de ___, soshite Kaori ga ano riyuu de kubi ni natta
+----
+Takeshi ga kono riyuu de kubi ni natta, soshite kaori ga ano riyuu de kubi ni natta
+# Adapted from https://conf.ling.cornell.edu/nels39/NELS-39Abstracts/123-GappingIn.pdf#:~:text=Gapping%20in%20Japanese%2C%20illustrated%20in%20%281%29%2C%20is%20best,the%20anaphoric%20theory%20of%20deletion%20presented%20in%20Williams.
+# Translation eng: Takeshi was (fired) for this reason, and Kaori was fired for that reason
+
+
+
+Takeshi ga kinou ringo wo ___, soshite Kaori ga kyou banana wo tabeta
+----
+Takeshi ga kinou ringo wo tabeta, soshite Kaori ga kyou banana wo tabeta
+# Adapted from Yosuke Sato's 2009 paper "Coordination, Dependency, and Gapping in Japanese at the Interfaces," currently under second review for publication
+# Referenced from https://ling.auf.net/lingbuzz/000809
+# Translation eng: Yesterday Takeshi (ate) an apple, and today Kaori ate a banana
+
+
+
+Takeshi ga ringo wo ___, soshite Kaori ga orenji wo tabeta
+----
+Takeshi ga ringo wo tabenakatta, soshite Kaori ga nanimo tabeta
+# Adapted from Yosuke Sato's 2009 paper "Coordination, Dependency, and Gapping in Japanese at the Interfaces," currently under second review for publication
+# Referenced from https://ling.auf.net/lingbuzz/000809
+# Translation eng: Takeshi (ate) an apple, and Kaori ate an orange
+
+
+
+Takeshi ga hon wo ___, soshite Kaori ga zasshi wo yonda
+----
+Takeshi ga hon wo yonda, soshite Kaori ga zasshi wo yonda
+# Added by John Phillips
+# Translation eng: Takeshi (read) a book, and Kaori read a magazine
+
+
+
+Takeshi ga kudamono wo ___, soshite Kaori ga yasaimono wo tabeta
+----
+Takeshi ga kudamono wo tabeta, soshite Kaori ga yasai wo tabeta
+# Added by John Phillips
+# Translation eng: Takeshi (ate) fruit, and Kaori ate a vegetable
+
+
+
+Takeshi ga byouin ni ___, soshite Kaori ga gakkou ni itta
+----
+Takeshi ga byouin ni itta, soshite Kaori ga gakkou ni itta
+# added by John Phillips 
+# translation eng: Takeshi (went) to the hospital, and kaori went to the school
+
+
+
+Takeshi ga nihon ni ___, soshite Kaori ga kankoku ni itta
+----
+Takeshi ga nihon ni itta, soshite Kaori ga kankoku ni itta
+# added by John Phillips
+# translation eng: Takeshi (went) to japan, and Kaori went to korea
+
+
+
+Takeshi ga eberesuto ni ___, soshite Kaori ga fuji-san ni nobotta
+----
+Takeshi ga eberesuto ni nobotta, soshite Kaori ga fuji-san ni nobotta
+# Added by John Phillips
+# translation eng: Takeshi (climbed) mount everest, and Kaori climbed mount fuji
+
+
+
+Takeshi ga toshokan ni ___, soshite Kaori ga yuubinkyoku ni itta
+----
+Takeshi ga toshokan ni itta, soshite Kaori ga Y=yuubinkyoku ni itta
+# Added by John Phillips 
+# translation eng: Takeshi (went) to the library, and Kaori went to the post office
+
+
+
+Takeshi ga jibun no ie ni ___, soshite Kaori ga jibun no ie ni kaetta
+----
+Takeshi ga jibun no ie ni kaetta, soshite Kaori ga jibun no ie ni kaetta
+# Added by John Phillips
+# Translation eng: Takeshi (returned) to his house, and Kaori returned to her house
+
+
+
+Takeshi ga toshokan de ___, soshite Kaori ga jibun no ie de benkyoushita
+----
+Takeshi ga toshokan de benkyoushita, soshite Kaori ga jibun no ie de benkyoushita
+# Added by John Phillips
+# Translation eng: Takeshi (studied) at the library, and Kaori studied at home
+
+
+
+
+Takeshi ga Kyoto de ___, soshite Kaori ga Touno de kyanpushita
+----
+Takeshi ga Kyoto de kyanpushita, soshite Kaori ga Touno de kyanpushita
+# Added by John Phillips
+# Translation eng: Takeshi (went camping) in Kyoto, and Kaori went camping in Tono
+
+
+
+
+Takeshi ga kono resutoran de ___, soshite Kaori ga sono resutoran de tabeta
+----
+Takeshi ga kono resutoran de tabeta, soshite Kaori ga sono resutoran de tabeta
+# Added by John Phillips
+# Translation eng: Takeshi (ate) at this restaurant, and Kaori ate at that restaurant
+
+
+
+
+Takeshi ga chuugoku ni ___, soshite Kaori ga kankoku ni sunda
+----
+Takeshi ga chuugoku ni sunda, soshite Kaori ga kankoku ni sunda
+# Added by John Phillips
+# Translation eng: Takeshi (lived) in China, and Kaori lived in korea
+
+
+
+
+Takeshi ga pan wo ___, soshite Kaori ga kami wo kitta
+----
+Takeshi ga pan wo kitta, soshite Kaori ga kami wo kitta
+# Added by John Phillips
+# Translation eng: Takeshi (cut) bread, and Kaori cut paper
+
+
+
+
+Takeshi ga kafe de ___, soshite Kaori ga jugyou de hon wo yonda
+----
+Takeshi ga kafe de hon wo yonda, soshite Kaori ga kafe de hon wo yonda
+# Added by John Phillips
+# Translation eng: Takeshi (read a book) at a cafe, and Kaori read a book in class
+
+
+John ga gitaa wo ___, soshite Mary ga baiorin wo hiita. 
+----
+John ga gitta wo hiita, soshite Mary ga baiorin wo hiita.
+# Translation: John (played) guitar, and May played violin.
+# Added by Soyoung Kim
+
+
+
+Takeshi ga paati de ___, soshite Kaori ga resutoran de mizu wo nonda
+----
+Takeshi ga paati de mizu wo nonda, soshita Kaori ga resutoran de mizu wo nonda
+# Translation eng: Takeshi (drank water) at the party, and Kaori drank water at a restraunt
+# Added by John Phillips
+
+
+John ni hana wo ___ soshite Bill ni choko wo Mary ga okutta
+----
+John ni hana wo Mary ga okutta. Soshite Bill ni choko wo Mari ga okutta. 
+# Translation: Mary sent flowers to John, and chocolates to Bill. 
+# gapping then topicalization
+# adapted from oxford handbook of ellipsis ch.33
+# Added by Soyoung Kim
+
+
+Mike ga raion ni ____, Tom ga kuma ni osowareta.
+----
+Mike ga raion ni osowareta. Tom ga kuma ni osowareta. 
+# Translation: Tom was attached by a bear, and Tom a lion.
+# Added by Soyoung Kim
+
+
+
+Mike ga raion ni ____, Tom ga kuma ni osowareta otoko wo tasuketa.
+----
+Mike ga raion ni osowareta otoko wo tasuketa. Tom ga kuma ni osowareta okoto wo tasuketa. 
+# Translation: Tom saved the man who was attacked by the bear, and Mike the man who was attacked by the lion.
+# Added by Soyoung Kim
+
+
+
+Takeshi ga jitensha ni ___, soshite Kaori ga densha ni notta
+----
+Takeshi ga jitensha ni notta, soshite Kaori ga densha ni notta
+# Added by John Phillips
+# Translation eng: Takeshi (rode) on a bike, and Kaori rode on the translation
+
+
+
+Takeshi ga uta wo ___, soshite Kaori ga opera wo utatta
+----
+Takeshi ga uta wo utatta, soshite Kaori ga opera wo utatta
+# Translation eng: Takeshi (sang) a song, and Kaori sang opera
+# Added by John Phillips
+
+
+
+Takeshi ga shinbun wo ___, soshite Kaori ga hon wo yonda
+----
+Takeshi ga shinbunwo yonda, soshite Kaori ga hon wo yonda
+# Added by John Phillips
+# Translation eng: Takeshi (read) a newspaper, and Kaori read a book
+
+
+
+Takeshi ga iroiro na hoteru wo ___, soshite Kaori ga iroiro na daigaku wo shirabeta
+----
+Takeshi ga iroiro na hoteru wo shirabeta, soshite Kaori ga iroiro na daigaku wo shirabeta
+# Added by John Phillips
+# Translation eng: Takeshi (looked into) various hotels, and Kaori (looked into) various colleges
+
+
+
+Takeshi ga ___ choko wo ___, soshite Masaru ga Mary ni hana wo moratta
+----
+Takeshi ga Mary ni choko wo moratta, soshite Masaru ga Mary ni hana wo moratta
+# Added by John Phillips
+# Translation eng: Takeshi (received) chocolates (from Mary), and Masaru received flowers from Mary
+
+
+
+Takeshi ga enpitsu wo ___, soushite Masaru ga pen wo kashita
+----
+Takeshi ga enpitsu wo kashita, soshite Masaru ga pen wo kashita
+# Added by John Phillips
+# Translation eng: Takeshi lent out a pencil, and Masaru lent out a pen
+
+
+
+Takeshi ga nihongo wo eigo ni ___, soshite Mari ga nihongo wo furansugo ni yakushita
+----
+Takeshi ga nihongo wo eigo ni yakushita, soshite Mari ga nihongo wo furansugo ni yakushita 
+# Added by John Phillips
+# Translation eng: Takeshi translated Japanese to english, and Mari translated Japanese to french
+
+
+
+Takeshi ga kouen de ___, soshite Masaru ga umi de hashitta
+----
+Takeshi ga kouen de hashitta, soshite Masaru ga umi de hashitta
+# Added by John Phillips
+# Translation eng: Takeshi ran at the park, and Masaru ran on the beach
+
+
+
+Takeshi ga futari wo ___, soshite Kaori ga sannin wo mita
+----
+Takeshi ga futari wo mita, soshite Kaori ga sannin wo mita
+# Added by John Phillips
+# Translation eng: Takeshi saw two people, and Kaori saw three people
+
+
+
+Takeshi ga tsukue ni ___, soshite Kaori ga isu ni suatta
+----
+Takeshi ga tsukue ni suatta, soshite Kaori ga isu ni suatta 
+# Added by John Phillips
+# Translation eng: Takeshi sat on the desk, and Kaori sat on the chair

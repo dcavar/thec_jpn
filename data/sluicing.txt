@@ -1,0 +1,136 @@
+# sluicing.txt
+# (C) 2023 by Soyoung Kim <sk135@iu.edu> and John Phillips <phillip2@iu.edu>
+# language: jpn
+# Notes: Examples gathered from published articles, across the web. All sources listed in comments.
+# These are all grammatical examples. The elided positions are indicated by ___.
+# The below papers was consulted in the construction of grammatical Japanese sentences with sluicing:
+# The Oxford Handbook of Ellipses: 
+# Luis Vencente, ch. 20  https://academic.oup.com/edited-volume/41718/chapter/353994801 
+# Teruhiko Fukaya, ch.33 https://academic.oup.com/edited-volume/41718/chapter/354002930
+# Either subject and verb or object and verb, sometimes just object. Use with "I don't know ___"
+
+
+
+itsu ___ ka wakaranai ga, John wa itsuka kuru.
+----
+itsu John ga kuru ka wakaranai ga, John wa itsuka kuru.
+# Translation: I don't know when, but John is coming some time.
+# Added by Soyoung Kim
+
+
+
+Hanako ga nanika wo katta rasii ga, Boku wa ___ nani ___ ka wakaranai 
+----
+Hanako ga nanika wo katta rasii ga, Boku wa kanojo/hanako ga nani (wo) katta ka wakaranai
+# adapted from https://academic.oup.com/edited-volume/41718/chapter/353994801 
+# Translation: It seems that Hanako bought something, but I don't know what.
+# Added by Soyoung Kim
+
+
+
+Taroo wa dono jaanaru ni jibun no ronbun wo dasu ka kimetaga, Hanako wa dono jaanaru (ni) ___ ka kimekaneteiru
+----
+Taroo wa dono jaanaru ni jibun no ronbun wo dasu ka kimetaga, Hanako wa dono jaanaru ni jibun no ronbun wo dasu ka kimekaneteiru
+# adapted from https://academic.oup.com/edited-volume/41718/chapter/353994801 
+# Translation: Taroo has decided which journal to submit his paper to, but Hanako can't decided which.
+# Added by Soyoung Kim
+
+
+Marii ga dareka ni naoya ga nanika wo nonda to iituketa rasii ga, boku wa dare ni ___ nani wo ___ ka wakaranai
+----
+Marri ga dareka ni naoya ga nanika wo nonda to iituketa rasii ga, boku wa dare ni naoya ga nani wo nonda to iituketa ka wakaranai.
+# adapted from https://academic.oup.com/edited-volume/41718/chapter/353994801 
+# Multiple sluicing
+# Translation: It seems that Mari told someone that Naoya drank something, but I don't know to who what
+# Added by Soyoung Kim
+
+
+John wa dareka wo suisensita ga, boku wa ___ shiranai
+----
+John wa dareka wo suisensita ga, boku wa dare ka siranai.
+# https://academic.oup.com/edited-volume/41718/chapter/354002930
+# Translation: John recommended someone, but I don't know who.
+
+
+boku wa keisatu ga Tanaka giin ni wairo wo okutta otoko wo taihoushita no wa sitteiru ga, hokano dono giin ni ___ ka wa siranai. 
+----
+boku wa keisatu ga Tanaka giin ni wairo wo okutta otoko wo taihoushita no wa sitteiru ga, hoka no dono giin ni wairo wo okutta ka wa siranai. 
+# https://academic.oup.com/edited-volume/41718/chapter/354002930
+# Translation: I know that the police arrested the man who had given a bribe to Representative Tanaka, but I don't know to which other Representative(s)
+
+
+boku wa Toyota ga sakunen soko no bengoshi wo uttaeta no wa oboeteriu ga, hokano dono kaisya ga ___ ka wa oboeteinai.
+----
+boku wa Toyota ga sakunen soko no bengoshi wo uttaeta no wa oboeteriu ga, hokano dono kaisya ga soko no bengoshi wo uttaeta ka wa oboeteinai.
+# https://academic.oup.com/edited-volume/41718/chapter/354002930
+# Translation: I remember that Toyota sued its attorney last year, but I don't remember which other company.
+
+
+soko no sotsugyousei ga USC wo suisenshita no wa oboeteiru ga, ___ hoka no dono daigaku wo ___ ka oboeteinai
+----
+soko no sotsugyousei ga USC wo suisenshita no wa oboeteiru ga, soko no sotsugyousei ga hoka no dono daigaku wo suisenshita ka oboeteinai
+# https://academic.oup.com/edited-volume/41718/chapter/354002930
+# Translation: I remeber that its graduates recommended USC, but I don't remember which other university (he recommended).
+
+
+
+Takeshi ga nanika tabeta. demo watashi wa ___ nani ___ ka shiranai
+----
+Takeshi ga nanika tabeta, demo watashi wa Takeshi ga nani wo tabeta ka shiranai
+# Translation eng: Takeshi ate something, but I dont know what (he ate)
+# Added by John Phillips
+
+
+
+Takeshi ga dokoka kara konpyuutaa wo katta. demo watashi wa ___ doko ___ ka oboeteinai
+----
+Takeshi ga dokoka kara konpyuutaa wo katta. demo watashi wa Takeshi ga doko kara konpyuuta wo katta no ka oboeteinai
+# Translation eng: Takeshi got a computer from somewhere, but I don't remember (where Takeshi got it from)
+# Added by John Phillips
+
+
+
+
+Takeshi ga nanika tango wo hanashita ga, watashi wa ___ nani ___ ka wakaranakatta
+----
+Takeshi ga nanika tango wo hanashita ga, watashi wa takeshi ga nani no tango wo hanashita ka wakaranakattai
+# Translation eng: Takeshi said a word, but I didn't understand the word
+# Added by John Phillips - Grammar adjusted by Soyoung 
+
+
+
+Takeshi ga hon wo yonda. demo watashi wa ___ dore ___ ka shiranai
+----
+Takeshi ga hon wo yonda. demo watashi wa takeshi ga dono hon wo yonda ka shiranai
+# Added by John Phillips, adjusted by Soyoung
+# Translation eng: Takeshi read a book, but I don't know which (book)
+
+
+
+Takeshi ga pan wo katta. demo watashi wa ___ ikutsu ___ ka shiranai
+----
+Takeshi ga pan wo katta. demo watashi wa takeshi ga ikutsu pan wo katta ka shiranai
+# Added by John Phillips, adjusted by Soyoung
+# Translation eng: Takeshi bought bread, but I don't know how much (bread)
+
+
+
+Takeshi ga dareka ni atta. demo watashi wa ___ dare ___ ka shiranai
+----
+Takeshi ga dareka ni atta, demo watashi wa takeshi ga dere ni atta ka shiranai
+# Added by John Phillips, adjusted by Soyoung
+# Translation eng: Takeshi met someone, but I don't know who (he met)
+
+
+Taroo wa Takeshi ga dare ni atta ka shiranai kedo, watashi wa ___ dare ___ ka shitteiru.
+----
+Taroo wa Tekeshi ga dare ni atta ka shiranai kedo, watashi wa takeshi ga dare ni atta ka shitteiru.
+#Translation: Taro doesn't know who Takeshi met, but I know who.
+
+
+John wa otooto ni nanika wo okutteita hito wo shoutaishita rashii ga, watashi wa ___ nani ___ ka shiranai.
+----
+John wa otooto ni nanika wo okutteita hito wo shoutaishita rashii ga, watashi wa otooto ni nani wo okutteita hito ka shiranai.
+#Translation: It seems that John invited a person who had sent something to his brother, but I don’t know what
+
+

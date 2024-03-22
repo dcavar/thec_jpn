@@ -1,0 +1,150 @@
+# VP_ellipsis.txt
+# (C) 2023 by Soyoung Kim <sk135@iu.edu> and John Phillips <phillip2@iu.edu>
+# language: jpn
+# Notes: Gathered from various examples accross the web. All sources will be given in comments.
+# These are all grammatical examples. The elided positions are indicated by ___.
+# The below paper was consulted in the construction of grammatical Japanese sentences with VP Ellipsis:
+# https://www.seiryo-u.ac.jp/u/research/gakkai/ronbunlib/j_ronsyu_pdf/no44/11_mori.pdf#:~:text=There%20are%20two%20types%20of%20VP%20ellipses%20in,soo-da%20-also%20so-affir.pres.%20%28Marsaru%20is%20so%2C%20too.%29%204a.
+
+
+
+Hiroshi ga tegami wo suteta. Masaru mo ___ souda
+----
+Hiroshi ga tegami wo suteta. Masaru mo tegami wo suteta
+# Adapted from https://www.seiryo-u.ac.jp/u/research/gakkai/ronbunlib/j_ronsyu_pdf/no44/11_mori.pdf#:~:text=There%20are%20two%20types%20of%20VP%20ellipses%20in,soo-da%20-also%20so-affir.pres.%20%28Marsaru%20is%20so%2C%20too.%29%204a.
+# Translation eng: Hiroshi threw away the letters, and masaru also (threw away the letters)
+# Added by John Phillips
+
+
+
+Hiroshi ga tegami wo suteta. Masaru mo ___ soushita 
+----
+Hiroshi ga tegami wo suteta. Masaru mo tegami wo suteta
+# Adapted from https://www.seiryo-u.ac.jp/u/research/gakkai/ronbunlib/j_ronsyu_pdf/no44/11_mori.pdf#:~:text=There%20are%20two%20types%20of%20VP%20ellipses%20in,soo-da%20-also%20so-affir.pres.%20%28Marsaru%20is%20so%2C%20too.%29%204a.
+# Translation eng: Hiroshi threw away the letters, and masaru also (threw away the letters)
+# Added by John Phillips
+
+
+
+
+Hiroshi ga bijutsu-hin wo tokashita. Masaru mo ___ souda 
+----
+Hiroshi ga bijutsu-hin wo tokashita. Masaru mo bijutsu-hin wo tokashita
+# Adapted from https://www.seiryo-u.ac.jp/u/research/gakkai/ronbunlib/j_ronsyu_pdf/no44/11_mori.pdf#:~:text=There%20are%20two%20types%20of%20VP%20ellipses%20in,soo-da%20-also%20so-affir.pres.%20%28Marsaru%20is%20so%2C%20too.%29%204a.
+# Translation eng: Hiroshi melted the painting, and masaru also (melted a painting)
+# Added by John Phillips
+
+
+
+Hiroshi ga bijutsu-hin wo tokashita. Masaru mo ___ soushita 
+----
+Hiroshi ga bijutsu-hin wo tokashita. Masaru mo bijutsu-hin wo tokashita
+# Adapted from https://www.seiryo-u.ac.jp/u/research/gakkai/ronbunlib/j_ronsyu_pdf/no44/11_mori.pdf#:~:text=There%20are%20two%20types%20of%20VP%20ellipses%20in,soo-da%20-also%20so-affir.pres.%20%28Marsaru%20is%20so%2C%20too.%29%204a.
+# Translation eng: Hiroshi melted the painting, and masaru also (melted a painting)
+# Added by John Phillips
+
+
+
+Hiroshi ga sandoicchi wo tabeta. Masaru mo ___ souda 
+----
+Hiroshi ga sandoicchi wo tabeta. Masaru mo sandoicchi wo tabeta
+# Added by John Phillips
+# Translation eng: Hiroshi ate a sandwich. Masaru also (ate a sandwich)
+
+
+
+
+Hiroshi ga sandoicchi wo tabeta. Masaru mo ___ soushita 
+----
+Hiroshi ga sandoicchi wo tabeta. Masaru mo sandoicchi wo tabeta
+# Added by John Phillips
+# Translation eng: Hiroshi ate a sandwich. Masaru also (ate a sandwich)
+
+
+
+
+Hiroshi ga enpitsu wo otta. Masaru mo ___ souda 
+----
+Hiroshi ga enpitsu wo otta. Masaru mo enpitsu wo otta
+# Added by John Phillips
+# Translation eng: Hiroshi broke a pencil. Masaru also (broke a pencil)
+
+
+
+
+Hiroshi ga enpitsu wo otta. Masaru mo ___ soushita 
+----
+Hiroshi ga enpitsu wo otta. Masaru mo enpitsu wo otta
+# Added by John Phillips
+# Translation eng: Hiroshi broke a pencil. Masaru also (broke a pencil)
+
+
+
+John ga gitaa wo hiita. Mary mo ___ soushita 
+----
+John ga gitaa wo hiita. Mary mo gitaa wo hiita
+# Translation: John played guitar, and Mary did too
+# Added by Soyoung Kim
+
+
+
+John ga gitaa wo hiita. Mary mo ___ souda 
+----
+John ga gitaa wo hiita. Mary mo gitaa wo hiita
+# Translation: John played guitar, and Mary did too
+# Added by Soyoung Kim
+
+
+
+Hiroshi ga eiga wo mita. Masaru mo ___ souda
+----
+Hiroshi ga eiga wo mita. Masaru mo eiga wo mita
+# Translation eng: Hiroshi watched a movie. Masaru also (watched a movie)
+# Added by John Phillips
+
+
+
+Hiroshi ga eiga wo mita. Masaru mo ___ soushita
+----
+Hiroshi ga eiga wo mita. Masaru mo eiga wo mita
+# Translation eng: Hiroshi watched a movie. Masaru also (watched a movie)
+# Added by John Phillips
+
+
+huransu ryouri wo tsukuru hito ga yoku koko ni kuru. itariya ryouri ___ mo ___ souda.
+----
+huransu ryouri wo tsukuru hito ga yoku koko ni kuru. itariya ryouri wo tsukuru hito mo yoku koko ni kuru.
+# Translation: people who make french cuisine come here often. (people who make) italian cuisine do too.
+# Added by Soyoung Kim
+
+
+
+Watashi wa Hiroshima ni itta. Masaru mo ___ souda.
+----
+Watashi wa Hiroshima ni itta. Masaru mo Hiroshima ni itta.
+# Translation eng: I went to Hiroshima. Masaru did too.
+# Added by John Phillips
+
+
+
+Haha wa watashi ni keeki wo kureta. Takeshi no okaa-san mo ___ souda
+----
+Haha wa watashi ni keeki wo kureta. Takeshi no okaa-san mo watashi ni keeki wo kureta
+# Translation eng: My mother gave me a cake. Takeshi's mother also gave me a cake
+# Added by John Phillips
+
+
+
+Kyou wa ame ga futteiru kara, watashi wa kasa wo mottekiteiru. Takeshi mo ___ souda
+----
+Kyou wa ame ga futteiru kara, watashi wa kasa wo mottekiteiru. Takeshi mo kasa wo mottekiteiru
+# Translation eng: Because it's raining today, I'm bringing an umbrella with me. Takeshi is also (bringing an umbrella with him)
+# Added by John Phillips
+
+
+
+Watashi wa nihon de tsukutta kuruma wo untenshite. Takeshi mo ___ souda
+----
+Watashi wa nihon de tsukutta kuruma wo untenshite. Takeshi mo nihon de tsukutta kuruma wo untenshite
+# Translation eng: I drive a car made in Japan. Takeshi also drives a car made in Japan
+# Added by John Phillips

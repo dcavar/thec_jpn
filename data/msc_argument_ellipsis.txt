@@ -1,0 +1,34 @@
+# msc_argument_ellipsis.txt
+# (C) 2023 by Soyoung Kim <sk135@iu.edu> and John Phillips <phillip2@iu.edu>
+# language: jpn
+# Notes: Gathered from various examples accross the web. All sources will be given in comments.
+# These are all grammatical examples. The elided positions are indicated by ___.
+# The below paper was consulted in the construction of grammatical Japanese sentences
+
+
+
+Hanako wa jibun no teian ga saiyousareru to omotteiru ga, taroo wa ___ omotte inai
+----
+Hanako wa jibun no teian ga saiyousareru to omotteiru ga, taroo wa jibun no teian ga saiyoosareru to omotte inai
+# (Arguably) CP Ellipsis
+# Translation: Hanako thinks that her proposial will be accepted, but Taro does not think that his proposal will be accepted.
+# Added by Soyoung Kim
+
+
+
+Taroo wa Hanako ga sono hon wo katta to itta si, Jiroo mo ___ itta
+----
+Taroo wa Hanako ga sono hon wo katta to itta si, Jiroo mo Hanako ga sono hon wo katta to itta
+# Traslation: Taro said that Hanako bought that book, and Ziro also said that she bought that book.
+# Adapted from Saito (2007:211)
+# Added by Soyoung Kim
+
+
+
+Sono hon wo taro wa Hanako ga ___ katta to itta si, jiroo mo ___ itta
+----
+Taroo wa Hanako ga sono hon wo katta to itta si, Jiroo mo Hanako ga sono hon wo katta to itta
+# CP ellipsis + word scrambling (motivated by focus/topicalization)
+# Traslation: Taro said that Hanako bought that book, and Ziro also said that she bought that book.
+# Adapted from Saito (2007:211)
+# Added by Soyoung Kim
