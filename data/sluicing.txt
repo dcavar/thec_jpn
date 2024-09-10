@@ -10,17 +10,19 @@
 # Either subject and verb or object and verb, sometimes just object. Use with "I don't know ___"
 
 
-
+いつ___か分からないが、ジョンはいつか来る。
 itsu ___ ka wakaranai ga, John wa itsuka kuru.
 ----
+いつジョンが来るか分からないが、ジョンはいつか来る。
 itsu John ga kuru ka wakaranai ga, John wa itsuka kuru.
 # Translation: I don't know when, but John is coming some time.
 # Added by Soyoung Kim
 
 
-
+花子がなにかを買ったらしいが、僕は___何___か分からない。
 Hanako ga nanika wo katta rasii ga, Boku wa ___ nani ___ ka wakaranai 
 ----
+花子がなにかを買ったらしいが、僕は彼女が何を買ったか分からない。
 Hanako ga nanika wo katta rasii ga, Boku wa kanojo/hanako ga nani (wo) katta ka wakaranai
 # adapted from https://academic.oup.com/edited-volume/41718/chapter/353994801 
 # Translation: It seems that Hanako bought something, but I don't know what.
@@ -28,109 +30,139 @@ Hanako ga nanika wo katta rasii ga, Boku wa kanojo/hanako ga nani (wo) katta ka 
 
 
 
+太郎はどのジャーナルに自分の論文を出すか決めたが、花子はどのジャーナルに___か決めかねている。
 Taroo wa dono jaanaru ni jibun no ronbun wo dasu ka kimetaga, Hanako wa dono jaanaru (ni) ___ ka kimekaneteiru
 ----
+太郎はどのジャーナルに自分の論文を出すか決めたが、花子はどのジャーナルに自分の論文を出すか決めかねている。
 Taroo wa dono jaanaru ni jibun no ronbun wo dasu ka kimetaga, Hanako wa dono jaanaru ni jibun no ronbun wo dasu ka kimekaneteiru
 # adapted from https://academic.oup.com/edited-volume/41718/chapter/353994801 
 # Translation: Taroo has decided which journal to submit his paper to, but Hanako can't decided which.
 # Added by Soyoung Kim
 
 
+マリーが誰かに直哉が何かを飲んだと言いつけたらしいが、僕は誰に___何を___か分からない。
 Marii ga dareka ni naoya ga nanika wo nonda to iituketa rasii ga, boku wa dare ni ___ nani wo ___ ka wakaranai
 ----
-Marri ga dareka ni naoya ga nanika wo nonda to iituketa rasii ga, boku wa dare ni naoya ga nani wo nonda to iituketa ka wakaranai.
+マリーが誰かに直哉が何かを飲んだと言いつけたらしいが、僕は誰に名親が何を飲んだと言いつけたか分からない。
+Marii ga dareka ni naoya ga nanika wo nonda to iituketa rasii ga, boku wa dare ni naoya ga nani wo nonda to iituketa ka wakaranai.
 # adapted from https://academic.oup.com/edited-volume/41718/chapter/353994801 
 # Multiple sluicing
 # Translation: It seems that Mari told someone that Naoya drank something, but I don't know to who what
 # Added by Soyoung Kim
 
 
-John wa dareka wo suisensita ga, boku wa ___ shiranai
+ジョンが誰かを推薦したが、僕は___知らない。
+John ga dareka wo suisensita ga, boku wa ___ shiranai
 ----
-John wa dareka wo suisensita ga, boku wa dare ka siranai.
+ジョンが誰かを推薦したが、僕はジョンが誰を推薦したか知らない。
+John ga dareka wo suisensita ga, boku wa John ga dare wo suisensita ka siranai.
 # https://academic.oup.com/edited-volume/41718/chapter/354002930
-# Translation: John recommended someone, but I don't know who.
+# Translation: John recommended someone, but I don't know who (or I don't care/know much).
 
 
-boku wa keisatu ga Tanaka giin ni wairo wo okutta otoko wo taihoushita no wa sitteiru ga, hokano dono giin ni ___ ka wa siranai. 
+僕は警察が田中議員に賄賂を送った男を逮捕したのは知っているが、他のどの議員に___かは知らない。
+boku wa keisatu ga Tanaka giin ni wairo wo okutta otoko wo taihoshita no wa sitteiru ga, hokano dono giin ni ___ ka wa siranai. 
 ----
-boku wa keisatu ga Tanaka giin ni wairo wo okutta otoko wo taihoushita no wa sitteiru ga, hoka no dono giin ni wairo wo okutta ka wa siranai. 
+僕は警察が田中議員に賄賂を送った男を逮捕したのは知っているが、他のどの議員に賄賂を送ったかは分からない。
+boku wa keisatu ga Tanaka giin ni wairo wo okutta otoko wo taihoshita no wa sitteiru ga, hoka no dono giin ni wairo wo okutta ka wa siranai. 
 # https://academic.oup.com/edited-volume/41718/chapter/354002930
 # Translation: I know that the police arrested the man who had given a bribe to Representative Tanaka, but I don't know to which other Representative(s)
 
 
+
+僕は豊田が昨年そこの弁護士を訴えたのは覚えているが、他のどの会社が___かは覚えていない。
 boku wa Toyota ga sakunen soko no bengoshi wo uttaeta no wa oboeteriu ga, hokano dono kaisya ga ___ ka wa oboeteinai.
 ----
+僕は豊田が昨年そこの弁護士を訴えたのは覚えているが、他のどの会社がそこの弁護士を訴えたかわ覚えていない。
 boku wa Toyota ga sakunen soko no bengoshi wo uttaeta no wa oboeteriu ga, hokano dono kaisya ga soko no bengoshi wo uttaeta ka wa oboeteinai.
 # https://academic.oup.com/edited-volume/41718/chapter/354002930
 # Translation: I remember that Toyota sued its attorney last year, but I don't remember which other company.
 
 
+
+そこの卒業生がUSCを推薦したのは覚えているが、___他のどの大学を___か覚えていない。
 soko no sotsugyousei ga USC wo suisenshita no wa oboeteiru ga, ___ hoka no dono daigaku wo ___ ka oboeteinai
 ----
+そこの卒業生がUSCを推薦したのは覚えているが、そこの卒業生が他のどの大学を推薦したか覚えていない。
 soko no sotsugyousei ga USC wo suisenshita no wa oboeteiru ga, soko no sotsugyousei ga hoka no dono daigaku wo suisenshita ka oboeteinai
 # https://academic.oup.com/edited-volume/41718/chapter/354002930
 # Translation: I remeber that its graduates recommended USC, but I don't remember which other university (he recommended).
 
 
 
+武が何か食べた。でも私は___何___か知らない。
 Takeshi ga nanika tabeta. demo watashi wa ___ nani ___ ka shiranai
 ----
+武が何か食べた。でも私は武が何を食べたか知らない。
 Takeshi ga nanika tabeta, demo watashi wa Takeshi ga nani wo tabeta ka shiranai
 # Translation eng: Takeshi ate something, but I dont know what (he ate)
 # Added by John Phillips
 
 
 
+武が何処かからコンピューターを買った。でも私は___どこ___か覚えていない。
 Takeshi ga dokoka kara konpyuutaa wo katta. demo watashi wa ___ doko ___ ka oboeteinai
 ----
-Takeshi ga dokoka kara konpyuutaa wo katta. demo watashi wa Takeshi ga doko kara konpyuuta wo katta no ka oboeteinai
+武が何処かでコンピューターを買った。でも私は武がどこでコンピューターを買ったか覚えていない
+Takeshi ga dokoka de konpyuutaa wo katta. demo watashi wa Takeshi ga doko de konpyuuta wo katta ka oboeteinai
 # Translation eng: Takeshi got a computer from somewhere, but I don't remember (where Takeshi got it from)
 # Added by John Phillips
 
 
 
 
+武が何か単語を話したが、私は___何___か分からなかった。
 Takeshi ga nanika tango wo hanashita ga, watashi wa ___ nani ___ ka wakaranakatta
 ----
-Takeshi ga nanika tango wo hanashita ga, watashi wa takeshi ga nani no tango wo hanashita ka wakaranakattai
+武が何か単語を話したが、私は武が何の単語を話したか分からなかった。
+Takeshi ga nanika tango wo hanashita ga, watashi wa takeshi ga nan no tango wo hanashita ka wakaranakattai
 # Translation eng: Takeshi said a word, but I didn't understand the word
 # Added by John Phillips - Grammar adjusted by Soyoung 
 
 
-
+武が本を読んだ。でも私は___どれ___か知らない。
 Takeshi ga hon wo yonda. demo watashi wa ___ dore ___ ka shiranai
 ----
+武が本を読んだ。でも私は武がどの本を読んだか知らない。
 Takeshi ga hon wo yonda. demo watashi wa takeshi ga dono hon wo yonda ka shiranai
 # Added by John Phillips, adjusted by Soyoung
 # Translation eng: Takeshi read a book, but I don't know which (book)
 
 
 
-Takeshi ga pan wo katta. demo watashi wa ___ ikutsu ___ ka shiranai
+武がパンを食べたが、私は___いくつ___か知らない。
+Takeshi ga pan wo katta ga, watashi wa ___ ikutsu ___ ka shiranai
 ----
-Takeshi ga pan wo katta. demo watashi wa takeshi ga ikutsu pan wo katta ka shiranai
+武がパンを食べたが、私は武がいくつパンを買ったか知らない。
+Takeshi ga pan wo katta ga, demo watashi wa takeshi ga ikutsu pan wo katta ka shiranai
 # Added by John Phillips, adjusted by Soyoung
-# Translation eng: Takeshi bought bread, but I don't know how much (bread)
+# Translation eng: Takeshi bought bread, but I don't know how much (bread he bought)
 
 
 
-Takeshi ga dareka ni atta. demo watashi wa ___ dare ___ ka shiranai
+武が誰かに会ったけど、でも私は___誰___か知らない。
+Takeshi ga dareka ni atta kedo, demo watashi wa ___ dare ___ ka shiranai
 ----
-Takeshi ga dareka ni atta, demo watashi wa takeshi ga dere ni atta ka shiranai
+武が誰かに会ったけど、でも私は武が誰に会ったか知らない。
+Takeshi ga dareka ni atta kedo, demo watashi wa takeshi ga dere ni atta ka shiranai
 # Added by John Phillips, adjusted by Soyoung
 # Translation eng: Takeshi met someone, but I don't know who (he met)
 
 
+
+太郎は武が誰に会ったか知らないけど、私は___誰___か知っている。
 Taroo wa Takeshi ga dare ni atta ka shiranai kedo, watashi wa ___ dare ___ ka shitteiru.
 ----
+太郎は武が誰にあったか知らないけど、私は武が誰に会ったか知っている。
 Taroo wa Tekeshi ga dare ni atta ka shiranai kedo, watashi wa takeshi ga dare ni atta ka shitteiru.
 #Translation: Taro doesn't know who Takeshi met, but I know who.
 
 
+
+ジョンは弟に何かを送っていた人を招待したらしいが、私は___何___か知らない。
 John wa otooto ni nanika wo okutteita hito wo shoutaishita rashii ga, watashi wa ___ nani ___ ka shiranai.
 ----
+ジョンは弟に何かを送っていた人を招待したらしいが、私は弟に何を送っていた人か知らない。
 John wa otooto ni nanika wo okutteita hito wo shoutaishita rashii ga, watashi wa otooto ni nani wo okutteita hito ka shiranai.
-#Translation: It seems that John invited a person who had sent something to his brother, but I don’t know what
-
+#Translation: It seems that John invited a person who had sent something to his brother, but I don’t know what (that person sent to his brother).
 
