@@ -7,8 +7,10 @@
 
 
 
+花子は自分の提案が採用されると思っているが、太郎は___思っていない。
 Hanako wa jibun no teian ga saiyousareru to omotteiru ga, taroo wa ___ omotte inai
 ----
+花子は自分の提案が採用されると思っているが、太郎は自分の提案が採用されると思っていない。
 Hanako wa jibun no teian ga saiyousareru to omotteiru ga, taroo wa jibun no teian ga saiyoosareru to omotte inai
 # (Arguably) CP Ellipsis
 # Translation: Hanako thinks that her proposial will be accepted, but Taro does not think that his proposal will be accepted.
@@ -16,8 +18,10 @@ Hanako wa jibun no teian ga saiyousareru to omotteiru ga, taroo wa jibun no teia
 
 
 
+太郎は花子がその本を買ったと言ったし、二郎も___言った。
 Taroo wa Hanako ga sono hon wo katta to itta si, Jiroo mo ___ itta
 ----
+太郎は花子がその本を買ったと言ったし、二郎も花子がその本を買ったと言った。
 Taroo wa Hanako ga sono hon wo katta to itta si, Jiroo mo Hanako ga sono hon wo katta to itta
 # Traslation: Taro said that Hanako bought that book, and Ziro also said that she bought that book.
 # Adapted from Saito (2007:211)
@@ -25,9 +29,12 @@ Taroo wa Hanako ga sono hon wo katta to itta si, Jiroo mo Hanako ga sono hon wo 
 
 
 
-Sono hon wo taro wa Hanako ga ___ katta to itta si, jiroo mo ___ itta
+その本を太郎は花子が買ったと言ったし、___二郎も___言った。
+Sono hon wo taroo wa Hanako ga katta to itta si, ___ jiroo mo ___ itta
 ----
-Taroo wa Hanako ga sono hon wo katta to itta si, Jiroo mo Hanako ga sono hon wo katta to itta
+その本を太郎は花子が買ったと言ったし、その本を二郎も花子が買ったと言った。
+Sono hon wo taroo wa hanako ga katta to itta si, sono hon wo jiroo mo hanakoga katta to itta.
+# Canonical word order: Taroo wa Hanako ga sono hon wo katta to itta si, Jiroo mo Hanako ga sono hon wo katta to itta
 # CP ellipsis + word scrambling (motivated by focus/topicalization)
 # Traslation: Taro said that Hanako bought that book, and Ziro also said that she bought that book.
 # Adapted from Saito (2007:211)
