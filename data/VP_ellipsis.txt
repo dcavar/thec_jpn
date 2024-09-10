@@ -8,8 +8,12 @@
 
 
 
-Hiroshi ga tegami wo suteta. Masaru mo ___ souda
+
+
+ヒロシが手紙を捨てた。マサルも＿＿ そうした。
+Hiroshi ga tegami wo suteta. Masaru mo ＿＿ shoushita 
 ----
+ヒロシが手紙を捨てた。マサルも手紙を捨てた。
 Hiroshi ga tegami wo suteta. Masaru mo tegami wo suteta
 # Adapted from https://www.seiryo-u.ac.jp/u/research/gakkai/ronbunlib/j_ronsyu_pdf/no44/11_mori.pdf#:~:text=There%20are%20two%20types%20of%20VP%20ellipses%20in,soo-da%20-also%20so-affir.pres.%20%28Marsaru%20is%20so%2C%20too.%29%204a.
 # Translation eng: Hiroshi threw away the letters, and masaru also (threw away the letters)
@@ -17,18 +21,13 @@ Hiroshi ga tegami wo suteta. Masaru mo tegami wo suteta
 
 
 
-Hiroshi ga tegami wo suteta. Masaru mo ___ soushita 
+
+
+
+ヒロシが美術品を溶かした。マサルも＿＿ そうだ。
+Hiroshi ga bijutsu-hin wo tokashita. Masaru mo ＿＿ souda 
 ----
-Hiroshi ga tegami wo suteta. Masaru mo tegami wo suteta
-# Adapted from https://www.seiryo-u.ac.jp/u/research/gakkai/ronbunlib/j_ronsyu_pdf/no44/11_mori.pdf#:~:text=There%20are%20two%20types%20of%20VP%20ellipses%20in,soo-da%20-also%20so-affir.pres.%20%28Marsaru%20is%20so%2C%20too.%29%204a.
-# Translation eng: Hiroshi threw away the letters, and masaru also (threw away the letters)
-# Added by John Phillips
-
-
-
-
-Hiroshi ga bijutsu-hin wo tokashita. Masaru mo ___ souda 
-----
+ヒロシが美術品を溶かした。マサルも美術品を溶かした。
 Hiroshi ga bijutsu-hin wo tokashita. Masaru mo bijutsu-hin wo tokashita
 # Adapted from https://www.seiryo-u.ac.jp/u/research/gakkai/ronbunlib/j_ronsyu_pdf/no44/11_mori.pdf#:~:text=There%20are%20two%20types%20of%20VP%20ellipses%20in,soo-da%20-also%20so-affir.pres.%20%28Marsaru%20is%20so%2C%20too.%29%204a.
 # Translation eng: Hiroshi melted the painting, and masaru also (melted a painting)
@@ -36,8 +35,10 @@ Hiroshi ga bijutsu-hin wo tokashita. Masaru mo bijutsu-hin wo tokashita
 
 
 
-Hiroshi ga bijutsu-hin wo tokashita. Masaru mo ___ soushita 
+ヒロシが美術品を溶かした。マサルも＿＿ そうした。
+Hiroshi ga bijutsu-hin wo tokashita. Masaru mo ＿＿ soushita 
 ----
+ヒロシが美術品を溶かした。マサルも美術品を溶かした。
 Hiroshi ga bijutsu-hin wo tokashita. Masaru mo bijutsu-hin wo tokashita
 # Adapted from https://www.seiryo-u.ac.jp/u/research/gakkai/ronbunlib/j_ronsyu_pdf/no44/11_mori.pdf#:~:text=There%20are%20two%20types%20of%20VP%20ellipses%20in,soo-da%20-also%20so-affir.pres.%20%28Marsaru%20is%20so%2C%20too.%29%204a.
 # Translation eng: Hiroshi melted the painting, and masaru also (melted a painting)
@@ -45,8 +46,21 @@ Hiroshi ga bijutsu-hin wo tokashita. Masaru mo bijutsu-hin wo tokashita
 
 
 
-Hiroshi ga sandoicchi wo tabeta. Masaru mo ___ souda 
+
+ヒロシがサンドイッチを食べた。マサルも＿＿ そうだ。
+Hiroshi ga sandoicchi wo tabeta. Masaru mo ＿＿ souda 
 ----
+ヒロシがサンドイッチを食べた。マサルもサンドイッチを食べた。
+Hiroshi ga sandoicchi wo tabeta. Masaru mo sandoicchi wo tabeta
+# Added by John Phillips
+# Translation eng: Hiroshi ate a sandwich. Masaru also (ate a sandwich)
+
+
+
+ヒロシがサンドイッチを食べた。マサルも＿＿ そうした。
+Hiroshi ga sandoicchi wo tabeta. Masaru mo ＿＿ soushita 
+----
+ヒロシがサンドイッチを食べた。マサルもサンドイッチを食べた。
 Hiroshi ga sandoicchi wo tabeta. Masaru mo sandoicchi wo tabeta
 # Added by John Phillips
 # Translation eng: Hiroshi ate a sandwich. Masaru also (ate a sandwich)
@@ -54,17 +68,21 @@ Hiroshi ga sandoicchi wo tabeta. Masaru mo sandoicchi wo tabeta
 
 
 
-Hiroshi ga sandoicchi wo tabeta. Masaru mo ___ soushita 
+
+ヒロシが鉛筆を折った。マサルも＿＿ そうだ。
+Hiroshi ga enpitsu wo otta. Masaru mo ＿＿ souda 
 ----
-Hiroshi ga sandoicchi wo tabeta. Masaru mo sandoicchi wo tabeta
+ヒロシが鉛筆を折った。マサルも鉛筆を折った。
+Hiroshi ga enpitsu wo otta. Masaru mo enpitsu wo otta
 # Added by John Phillips
-# Translation eng: Hiroshi ate a sandwich. Masaru also (ate a sandwich)
+# Translation eng: Hiroshi broke a pencil. Masaru also (broke a pencil)
 
 
 
-
-Hiroshi ga enpitsu wo otta. Masaru mo ___ souda 
+ヒロシが鉛筆を折った。マサルも＿＿ そうした。
+Hiroshi ga enpitsu wo otta. Masaru mo ＿＿ soushita 
 ----
+ヒロシが鉛筆を折った。マサルも鉛筆を折った。
 Hiroshi ga enpitsu wo otta. Masaru mo enpitsu wo otta
 # Added by John Phillips
 # Translation eng: Hiroshi broke a pencil. Masaru also (broke a pencil)
@@ -72,79 +90,101 @@ Hiroshi ga enpitsu wo otta. Masaru mo enpitsu wo otta
 
 
 
-Hiroshi ga enpitsu wo otta. Masaru mo ___ soushita 
+
+
+
+ジョンがギターを弾いた。マリーも＿＿ そうだ。
+John ga gitaa wo hiita. Mary mo ＿＿ souda 
 ----
-Hiroshi ga enpitsu wo otta. Masaru mo enpitsu wo otta
-# Added by John Phillips
-# Translation eng: Hiroshi broke a pencil. Masaru also (broke a pencil)
+ジョンがギターを弾いた。マリーもギターを弾いた。
+John ga gitaa wo hiita. Mary mo gitaa wo hiita
+# Translation: John played guitar, and Mary did too
+# Added by Soyoung Kim
 
 
-
-John ga gitaa wo hiita. Mary mo ___ soushita 
+ジョンがギターを弾いた。マリーも＿＿ そうした。
+John ga gitaa wo hiita. Mary mo ＿＿ soushita 
 ----
+ジョンがギターを弾いた。マリーもギターを弾いた。
 John ga gitaa wo hiita. Mary mo gitaa wo hiita
 # Translation: John played guitar, and Mary did too
 # Added by Soyoung Kim
 
 
 
-John ga gitaa wo hiita. Mary mo ___ souda 
+
+
+
+ヒロシが映画を見た。マサルも＿＿ そうだ。
+Hiroshi ga eiga wo mita. Masaru mo ＿＿ souda
 ----
-John ga gitaa wo hiita. Mary mo gitaa wo hiita
-# Translation: John played guitar, and Mary did too
-# Added by Soyoung Kim
-
-
-
-Hiroshi ga eiga wo mita. Masaru mo ___ souda
-----
+ヒロシが映画をみた。マサルも映画を見た。
 Hiroshi ga eiga wo mita. Masaru mo eiga wo mita
 # Translation eng: Hiroshi watched a movie. Masaru also (watched a movie)
 # Added by John Phillips
 
 
-
-Hiroshi ga eiga wo mita. Masaru mo ___ soushita
+ヒロシが映画を見た。マサルも＿＿ そうした。
+Hiroshi ga eiga wo mita. Masaru mo ＿＿ soushita
 ----
+ヒロシが映画をみた。マサルも映画を見た。
 Hiroshi ga eiga wo mita. Masaru mo eiga wo mita
 # Translation eng: Hiroshi watched a movie. Masaru also (watched a movie)
 # Added by John Phillips
 
 
-huransu ryouri wo tsukuru hito ga yoku koko ni kuru. itariya ryouri ___ mo ___ souda.
+フランス料理を作る人がよくここに来る。イタリア料理___も___そうだ。
+furansu ryouri wo tsukuru hito ga yoku koko ni kuru. itariya ryouri ___ mo ___ souda.
 ----
-huransu ryouri wo tsukuru hito ga yoku koko ni kuru. itariya ryouri wo tsukuru hito mo yoku koko ni kuru.
+フランス料理を作る人がよくここに来る。イタリア料理を作る人もよくここに来る。
+furansu ryouri wo tsukuru hito ga yoku koko ni kuru. itariya ryouri wo tsukuru hito mo yoku koko ni kuru.
 # Translation: people who make french cuisine come here often. (people who make) italian cuisine do too.
+# Adapted from a paper.
 # Added by Soyoung Kim
 
-
-
-Watashi wa Hiroshima ni itta. Masaru mo ___ souda.
+味噌ラーメン___は私です。
+miso raamen ___ wa watashidesu.
 ----
+味噌ラーメンを頼んだ人は私です。
+miso raamen wo tanonda hito wa watashidesu.
+#Translation: The one who ordered Miso Ramen is me.
+#Added by Soyoung Kim
+
+
+
+私は広島に行った。マサルも＿＿そうだ。
+Watashi wa Hiroshima ni itta. Masaru mo ＿＿ souda.
+----
+私は広島に行った。マサルの広島に行った。
 Watashi wa Hiroshima ni itta. Masaru mo Hiroshima ni itta.
 # Translation eng: I went to Hiroshima. Masaru did too.
 # Added by John Phillips
 
 
-
+母は私にケーキをくれた。武のお母さんも___そうだ。
 Haha wa watashi ni keeki wo kureta. Takeshi no okaa-san mo ___ souda
 ----
+母は私にケーキをくれた。武のお母さんも私にケーキをくれた。
 Haha wa watashi ni keeki wo kureta. Takeshi no okaa-san mo watashi ni keeki wo kureta
 # Translation eng: My mother gave me a cake. Takeshi's mother also gave me a cake
 # Added by John Phillips
 
 
-
+今日は雨が降っているから、私は傘を持ってきている。武も___そうだ。
 Kyou wa ame ga futteiru kara, watashi wa kasa wo mottekiteiru. Takeshi mo ___ souda
 ----
+今日は雨が降っているから、私は傘を持ってきている。武も傘を持ってきている。
 Kyou wa ame ga futteiru kara, watashi wa kasa wo mottekiteiru. Takeshi mo kasa wo mottekiteiru
 # Translation eng: Because it's raining today, I'm bringing an umbrella with me. Takeshi is also (bringing an umbrella with him)
 # Added by John Phillips
 
 
-
-Watashi wa nihon de tsukutta kuruma wo untenshite. Takeshi mo ___ souda
+私は日本製の車を運転する。武も___そうだ。
+Watashi wa nihonsei no kuruma wo untensuru. Takeshi mo ___ souda
 ----
-Watashi wa nihon de tsukutta kuruma wo untenshite. Takeshi mo nihon de tsukutta kuruma wo untenshite
+私は日本製の車を運転する。武も日本製の車を運転する。
+Watashi wa nihonsei no kuruma wo untensuru. Takeshi mo nihon de tsukutta kuruma wo untenshite
 # Translation eng: I drive a car made in Japan. Takeshi also drives a car made in Japan
 # Added by John Phillips
+
+
