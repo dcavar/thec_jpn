@@ -7,174 +7,198 @@
 # https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/8434/3231045.pdf?sequence=1&isAllowed=y
 
 
-
+武がリンゴを___、そして香織が本を買った。
 Takeshi ga ringo wo ___, soshite Kaori ga hon wo katta
 ----
+武がリンゴを買った、そして香織が本を買った。
 Takeshi ga ringo wo katta, soshite Kaori ga hon wo katta
 # Adapted from https://conf.ling.cornell.edu/nels39/NELS-39Abstracts/123-GappingIn.pdf#:~:text=Gapping%20in%20Japanese%2C%20illustrated%20in%20%281%29%2C%20is%20best,the%20anaphoric%20theory%20of%20deletion%20presented%20in%20Williams.
 # Translation eng: Takeshi (bought) an apple, and Kaori bought a book
 
 
 
+武が雑誌を___、そして香織が本を買った。
 Takeshi ga zasshi wo ___, soshite Kaori ga hon wo katta
 ----
+武が雑誌を買った、そして香織が本を買った。
 Takeshi ga zasshi wo katta kara, Kaori ga hon wo katta
 # Adapted from https://conf.ling.cornell.edu/nels39/NELS-39Abstracts/123-GappingIn.pdf#:~:text=Gapping%20in%20Japanese%2C%20illustrated%20in%20%281%29%2C%20is%20best,the%20anaphoric%20theory%20of%20deletion%20presented%20in%20Williams.
 # Translation eng: Because Takeshi (bought) a magazine, Kaori bought a book
 
 
-
+武がこの理由で___、そして香織があの理由でクビになった。
 Takeshi ga kono riyuu de ___, soshite Kaori ga ano riyuu de kubi ni natta
 ----
+武がこの理由でクビになった、そして香織があの理由でクビになった。
 Takeshi ga kono riyuu de kubi ni natta, soshite kaori ga ano riyuu de kubi ni natta
 # Adapted from https://conf.ling.cornell.edu/nels39/NELS-39Abstracts/123-GappingIn.pdf#:~:text=Gapping%20in%20Japanese%2C%20illustrated%20in%20%281%29%2C%20is%20best,the%20anaphoric%20theory%20of%20deletion%20presented%20in%20Williams.
 # Translation eng: Takeshi was (fired) for this reason, and Kaori was fired for that reason
 
 
 
+武が昨日りんごを___、そして香織が今日バナナを食べた。
 Takeshi ga kinou ringo wo ___, soshite Kaori ga kyou banana wo tabeta
 ----
+武が昨日りんごを食べた、そして香織が今日バナナを食べた。
 Takeshi ga kinou ringo wo tabeta, soshite Kaori ga kyou banana wo tabeta
 # Adapted from Yosuke Sato's 2009 paper "Coordination, Dependency, and Gapping in Japanese at the Interfaces," currently under second review for publication
 # Referenced from https://ling.auf.net/lingbuzz/000809
 # Translation eng: Yesterday Takeshi (ate) an apple, and today Kaori ate a banana
 
 
-
+武がリンゴを___、そして香織がオレンジを食べた。
 Takeshi ga ringo wo ___, soshite Kaori ga orenji wo tabeta
 ----
+武がリンゴを食べた、そして香織がオレンジを食べた。
 Takeshi ga ringo wo tabenakatta, soshite Kaori ga nanimo tabeta
 # Adapted from Yosuke Sato's 2009 paper "Coordination, Dependency, and Gapping in Japanese at the Interfaces," currently under second review for publication
 # Referenced from https://ling.auf.net/lingbuzz/000809
 # Translation eng: Takeshi (ate) an apple, and Kaori ate an orange
 
 
-
+武が本を___、そして香りが雑誌を読んだ。
 Takeshi ga hon wo ___, soshite Kaori ga zasshi wo yonda
 ----
+武が本を読んだ、そして香りが雑誌を読んだ。
 Takeshi ga hon wo yonda, soshite Kaori ga zasshi wo yonda
 # Added by John Phillips
 # Translation eng: Takeshi (read) a book, and Kaori read a magazine
 
 
-
+武が果物を___、そして香織が野菜物を食べた。
 Takeshi ga kudamono wo ___, soshite Kaori ga yasaimono wo tabeta
 ----
+武が果物を食べた、そして香織が野菜物を食べた。
 Takeshi ga kudamono wo tabeta, soshite Kaori ga yasai wo tabeta
 # Added by John Phillips
 # Translation eng: Takeshi (ate) fruit, and Kaori ate a vegetable
 
 
-
+武が病院に___、そして香織が学校に行った。
 Takeshi ga byouin ni ___, soshite Kaori ga gakkou ni itta
 ----
+武が病院に行った、そして香織が学校に行った。
 Takeshi ga byouin ni itta, soshite Kaori ga gakkou ni itta
 # added by John Phillips 
 # translation eng: Takeshi (went) to the hospital, and kaori went to the school
 
 
-
+武が日本に___、そして香織が韓国に行った。
 Takeshi ga nihon ni ___, soshite Kaori ga kankoku ni itta
 ----
+武が日本に行った、そして香織が韓国に行った。
 Takeshi ga nihon ni itta, soshite Kaori ga kankoku ni itta
 # added by John Phillips
 # translation eng: Takeshi (went) to japan, and Kaori went to korea
 
 
-
+武がエベレストに___、そして香織が富士山に登った。
 Takeshi ga eberesuto ni ___, soshite Kaori ga fuji-san ni nobotta
 ----
+武がエベレストに登った、そして香織が富士山に登った。
 Takeshi ga eberesuto ni nobotta, soshite Kaori ga fuji-san ni nobotta
 # Added by John Phillips
 # translation eng: Takeshi (climbed) mount everest, and Kaori climbed mount fuji
 
 
-
-Takeshi ga toshokan ni ___, soshite Kaori ga yuubinkyoku ni itta
+武が図書館に___、香織は郵便局に行った。
+Takeshi ga toshokan ni ___, Kaori wa yuubinkyoku ni itta
 ----
-Takeshi ga toshokan ni itta, soshite Kaori ga Y=yuubinkyoku ni itta
+武が図書館に行った、香織は郵便局に行った。
+Takeshi ga toshokan ni itta, Kaori wa yuubinkyoku ni itta
 # Added by John Phillips 
 # translation eng: Takeshi (went) to the library, and Kaori went to the post office
 
 
-
+武が自分の家に___、そして香織が自分の家に帰った。
 Takeshi ga jibun no ie ni ___, soshite Kaori ga jibun no ie ni kaetta
 ----
+武が自分の家に帰った、そして香織が自分の家に帰った。
 Takeshi ga jibun no ie ni kaetta, soshite Kaori ga jibun no ie ni kaetta
 # Added by John Phillips
 # Translation eng: Takeshi (returned) to his house, and Kaori returned to her house
 
 
-
+武が図書館で___、そして香織が自分の家で勉強した。
 Takeshi ga toshokan de ___, soshite Kaori ga jibun no ie de benkyoushita
 ----
+武が図書館で勉強した、そして香織が自分の家で勉強した。
 Takeshi ga toshokan de benkyoushita, soshite Kaori ga jibun no ie de benkyoushita
 # Added by John Phillips
 # Translation eng: Takeshi (studied) at the library, and Kaori studied at home
 
 
-
-
-Takeshi ga Kyoto de ___, soshite Kaori ga Touno de kyanpushita
+武が京都で___、そして香織が東野でキャンピングした。
+Takeshi ga Kyoto de ___, soshite Kaori ga Touno de kyanpingushita
 ----
-Takeshi ga Kyoto de kyanpushita, soshite Kaori ga Touno de kyanpushita
+武が京都でキャンピングした、そして香織が東野でキャンピングした。
+Takeshi ga Kyoto de kyanpingushita, soshite Kaori ga Touno de kyanpingushita
 # Added by John Phillips
 # Translation eng: Takeshi (went camping) in Kyoto, and Kaori went camping in Tono
 
 
 
-
+武がこのレストランで___、そして香織がそのレストランで食べた。
 Takeshi ga kono resutoran de ___, soshite Kaori ga sono resutoran de tabeta
 ----
+武がこのレストランで食べた、そして香織がそのレストランで食べた。
 Takeshi ga kono resutoran de tabeta, soshite Kaori ga sono resutoran de tabeta
 # Added by John Phillips
 # Translation eng: Takeshi (ate) at this restaurant, and Kaori ate at that restaurant
 
 
 
-
-Takeshi ga chuugoku ni ___, soshite Kaori ga kankoku ni sunda
+武が中国に___、香織は韓国に住んでいた。
+Takeshi ga chuugoku ni ___, Kaori wa kankoku ni sundeita
 ----
-Takeshi ga chuugoku ni sunda, soshite Kaori ga kankoku ni sunda
+武が中国に住んでいた、香織は韓国に住んでいた。
+Takeshi ga chuugoku ni sundeita, Kaori wa kankoku ni sundeita
 # Added by John Phillips
 # Translation eng: Takeshi (lived) in China, and Kaori lived in korea
 
 
 
-
+武がパンを___、そして香織が紙を切った。
 Takeshi ga pan wo ___, soshite Kaori ga kami wo kitta
 ----
+武がパンを切った、そして香織が紙を切った。
 Takeshi ga pan wo kitta, soshite Kaori ga kami wo kitta
 # Added by John Phillips
 # Translation eng: Takeshi (cut) bread, and Kaori cut paper
 
 
 
-
+武がカフェーで___、そして香りが授業で本を読んだ。
 Takeshi ga kafe de ___, soshite Kaori ga jugyou de hon wo yonda
 ----
+武がカフェーで本を読んだ、そして香りが授業で本を読んだ。
 Takeshi ga kafe de hon wo yonda, soshite Kaori ga kafe de hon wo yonda
 # Added by John Phillips
 # Translation eng: Takeshi (read a book) at a cafe, and Kaori read a book in class
 
 
+ジョンがギターを___、そしてマリーがバイオリンを弾いた。
 John ga gitaa wo ___, soshite Mary ga baiorin wo hiita. 
 ----
+ジョンがギターを弾いた、そしてマリーがバイオリンを弾いた。
 John ga gitta wo hiita, soshite Mary ga baiorin wo hiita.
 # Translation: John (played) guitar, and May played violin.
 # Added by Soyoung Kim
 
 
-
+武がパーティーで___、そして香りがレストランで水を飲んだ。
 Takeshi ga paati de ___, soshite Kaori ga resutoran de mizu wo nonda
 ----
+武がパーティーで水を飲んだ、そして香りがレストランで水を飲んだ。
 Takeshi ga paati de mizu wo nonda, soshita Kaori ga resutoran de mizu wo nonda
-# Translation eng: Takeshi (drank water) at the party, and Kaori drank water at a restraunt
+# Translation eng: Takeshi (drank water) at the party, and Kaori drank water at a restaurant
 # Added by John Phillips
 
 
-John ni hana wo ___ soshite Bill ni choko wo Mary ga okutta
+ジョンに花を___、そしてビルにチョコをマリーが送った。
+John ni hana wo ___, soshite Bill ni choko wo Mary ga okutta
 ----
+ジョンに花をマリーが送った、そしてビルにチョコをマリーが送った。
 John ni hana wo Mary ga okutta. Soshite Bill ni choko wo Mari ga okutta. 
 # Translation: Mary sent flowers to John, and chocolates to Bill. 
 # gapping then topicalization
@@ -182,96 +206,115 @@ John ni hana wo Mary ga okutta. Soshite Bill ni choko wo Mari ga okutta.
 # Added by Soyoung Kim
 
 
-Mike ga raion ni ____, Tom ga kuma ni osowareta.
+マークがライオンに___、トムは熊に襲われた。
+Maaku ga raion ni ____, Tomu wa kuma ni osowareta.
 ----
-Mike ga raion ni osowareta. Tom ga kuma ni osowareta. 
-# Translation: Tom was attached by a bear, and Tom a lion.
+マークがライオンに襲われた、トムは熊に襲われた。
+Maaku ga raion ni osowareta. Tomu wa kuma ni osowareta. 
+# Translation: Tom was attacked by a bear, and Tom a lion.
 # Added by Soyoung Kim
 
 
-
-Mike ga raion ni ____, Tom ga kuma ni osowareta otoko wo tasuketa.
+マークがライオンに___、トムが熊に襲われた男を助けた。
+Maaku ga raion ni ____, Tomu ga kuma ni osowareta otoko wo tasuketa.
 ----
-Mike ga raion ni osowareta otoko wo tasuketa. Tom ga kuma ni osowareta okoto wo tasuketa. 
+マークがライオンに襲われた男を助けた、トムが熊に襲われた男を助けた。
+Maaku ga raion ni osowareta otoko wo tasuketa. Tomu wa kuma ni osowareta okoto wo tasuketa. 
 # Translation: Tom saved the man who was attacked by the bear, and Mike the man who was attacked by the lion.
 # Added by Soyoung Kim
 
 
 
+武が自転車に___、そして香りが電車に乗った。
 Takeshi ga jitensha ni ___, soshite Kaori ga densha ni notta
 ----
+武が自転車に乗った、そして香りが電車に乗った。
 Takeshi ga jitensha ni notta, soshite Kaori ga densha ni notta
 # Added by John Phillips
 # Translation eng: Takeshi (rode) on a bike, and Kaori rode on the translation
 
 
-
-Takeshi ga uta wo ___, soshite Kaori ga opera wo utatta
+武が歌を___、そして香りがオペラを披露した。
+Takeshi ga uta wo ___, soshite Kaori ga opera wo hirooshita
 ----
-Takeshi ga uta wo utatta, soshite Kaori ga opera wo utatta
-# Translation eng: Takeshi (sang) a song, and Kaori sang opera
+武が歌を披露した、そして香りがオペラを披露した。
+Takeshi ga uta wo hirooshita, soshite Kaori ga opera wo hirooshita
+# Translation eng: Takeshi (performed) a song, and Kaori performed opera
 # Added by John Phillips
 
 
-
+武が新聞を___、そして香織が本を読んだ。
 Takeshi ga shinbun wo ___, soshite Kaori ga hon wo yonda
 ----
+武が新聞を読んだ、そして香織が本を読んだ。
 Takeshi ga shinbunwo yonda, soshite Kaori ga hon wo yonda
 # Added by John Phillips
 # Translation eng: Takeshi (read) a newspaper, and Kaori read a book
 
 
 
-Takeshi ga iroiro na hoteru wo ___, soshite Kaori ga iroiro na daigaku wo shirabeta
+
+武が色々ホテルを___、香織は色々な大学を調べた。
+Takeshi ga iroiro na hoteru wo ___, Kaori wa iroiro na daigaku wo shirabeta
 ----
-Takeshi ga iroiro na hoteru wo shirabeta, soshite Kaori ga iroiro na daigaku wo shirabeta
+武が色々ホテルを調べた、香織は色々な大学を調べた。
+Takeshi ga iroiro na hoteru wo shirabeta, Kaori wa iroiro na daigaku wo shirabeta
 # Added by John Phillips
 # Translation eng: Takeshi (looked into) various hotels, and Kaori (looked into) various colleges
 
 
-
-Takeshi ga ___ choko wo ___, soshite Masaru ga Mary ni hana wo moratta
+武がマリーにチョコを___、そしてマサルは___花を貰った。
+Takeshi ga mari ni choko wo ___, soshite Masaru wa ___ hana wo moratta
 ----
-Takeshi ga Mary ni choko wo moratta, soshite Masaru ga Mary ni hana wo moratta
+武がマリーにチョコを貰った、そしてマサルは___花を貰った。
+Takeshi ga Mary ni choko wo moratta, soshite Masaru wa Mary ni hana wo moratta
 # Added by John Phillips
-# Translation eng: Takeshi (received) chocolates (from Mary), and Masaru received flowers from Mary
+# Translation eng: Takeshi (received) chocolates from Mary, and Masaru received flowers (from Mary)
 
 
-
-Takeshi ga enpitsu wo ___, soushite Masaru ga pen wo kashita
+武が鉛筆を___、そしてマサルがペンを貸した。
+Takeshi ga enpitsu wo ___, soshite Masaru ga pen wo kashita
 ----
+武が鉛筆を貸した、そしてマサルがペンを貸した。
 Takeshi ga enpitsu wo kashita, soshite Masaru ga pen wo kashita
 # Added by John Phillips
 # Translation eng: Takeshi lent out a pencil, and Masaru lent out a pen
 
 
-
-Takeshi ga nihongo wo eigo ni ___, soshite Mari ga nihongo wo furansugo ni yakushita
+武は日本語を英語に___、マリーは日本語をフランス語に訳した。
+Takeshi wa nihongo wo eigo ni ___, soshite Mari ga nihongo wo furansugo ni yakushita
 ----
-Takeshi ga nihongo wo eigo ni yakushita, soshite Mari ga nihongo wo furansugo ni yakushita 
+武は日本語を英語に訳した、マリーは日本語をフランス語に訳した。
+Takeshi wa nihongo wo eigo ni yakushita, soshite Mari ga nihongo wo furansugo ni yakushita 
 # Added by John Phillips
 # Translation eng: Takeshi translated Japanese to english, and Mari translated Japanese to french
 
 
 
+武が公園で___、そしてマサルが海で走った。
 Takeshi ga kouen de ___, soshite Masaru ga umi de hashitta
 ----
+武が公園で走った、そしてマサルが海で走った。
 Takeshi ga kouen de hashitta, soshite Masaru ga umi de hashitta
 # Added by John Phillips
 # Translation eng: Takeshi ran at the park, and Masaru ran on the beach
 
 
-
-Takeshi ga futari wo ___, soshite Kaori ga sannin wo mita
+武が学生二人を___、そして香織は___三人を見た。
+Takeshi ga gakusei futari wo ___, soshite Kaori ga ___ sannin wo mita
 ----
-Takeshi ga futari wo mita, soshite Kaori ga sannin wo mita
+武が学生二人を見た、そして香織は学生三人を見た。
+Takeshi ga gakusei futari wo mita, soshite Kaori ga gakusei sannin wo mita
 # Added by John Phillips
-# Translation eng: Takeshi saw two people, and Kaori saw three people
+# Translation eng: Takeshi saw two students, and Kaori saw three students
 
 
 
+武が机に___、そして香織が椅子に座った。
 Takeshi ga tsukue ni ___, soshite Kaori ga isu ni suatta
 ----
+武が机に座った、そして香りが椅子に座った。
 Takeshi ga tsukue ni suatta, soshite Kaori ga isu ni suatta 
 # Added by John Phillips
 # Translation eng: Takeshi sat on the desk, and Kaori sat on the chair
+
