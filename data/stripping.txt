@@ -8,8 +8,10 @@
 
 
 
+ヒロシが手紙を捨てた。マサルも___だ。
 Hiroshi ga tegami wo suteta. Masaru mo ___ da
 ----
+ヒロシが手紙を捨てた。マサルも手紙を捨てた。
 Hiroshi ga tegami wo suteta. Masaru mo tegami wo suteta
 # Adapted from https://www.seiryo-u.ac.jp/u/research/gakkai/ronbunlib/j_ronsyu_pdf/no44/11_mori.pdf#:~:text=There%20are%20two%20types%20of%20VP%20ellipses%20in,soo-da%20-also%20so-affir.pres.%20%28Marsaru%20is%20so%2C%20too.%29%204a.
 # Translation eng: Hiroshi threw away the letters, and masaru also (threw away the letters)
@@ -17,8 +19,10 @@ Hiroshi ga tegami wo suteta. Masaru mo tegami wo suteta
 
 
 
-Hiroshi ga bijutsu-hin wo tokashita. Masaru mo ___ da
+ヒロシが美術品を溶かした。マサルも___だ。
+Hiroshi ga bijutsu-hin wo tokashita. Masaru mo ___ da 
 ----
+ヒロシが美術品を溶かした。マサルも美術品を溶かした。
 Hiroshi ga bijutsu-hin wo tokashita. Masaru mo bijutsu-hin wo tokashita
 # Adapted from https://www.seiryo-u.ac.jp/u/research/gakkai/ronbunlib/j_ronsyu_pdf/no44/11_mori.pdf#:~:text=There%20are%20two%20types%20of%20VP%20ellipses%20in,soo-da%20-also%20so-affir.pres.%20%28Marsaru%20is%20so%2C%20too.%29%204a.
 # Translation eng: Hiroshi melted the painting, and masaru also (melted a painting)
@@ -26,119 +30,140 @@ Hiroshi ga bijutsu-hin wo tokashita. Masaru mo bijutsu-hin wo tokashita
 
 
 
-
-Hiroshi ga sandoicchi wo tabeta. Masaru mo ___ da
+ヒロシがサンドイッチを食べた。マサルも___だ。
+Hiroshi ga sandoicchi wo tabeta. Masaru mo ___ da 
 ----
+ヒロシがサンドイッチを食べた。マサルもサンドイッチを食べた。
 Hiroshi ga sandoicchi wo tabeta. Masaru mo sandoicchi wo tabeta
 # Added by John Phillips
 # Translation eng: Hiroshi ate a sandwich. Masaru also (ate a sandwich)
 
 
-
-Hiroshi ga enpitsu wo otta. Masaru mo ___ da
+ヒロシが鉛筆を折った。マサルも___だ。
+Hiroshi ga enpitsu wo otta. Masaru mo ___ da 
 ----
+ヒロシが鉛筆を折った。マサルも鉛筆を折った。
 Hiroshi ga enpitsu wo otta. Masaru mo enpitsu wo otta
 # Added by John Phillips
 # Translation eng: Hiroshi broke a pencil. Masaru also (broke a pencil)
 
 
-
-John ga gitaa wo hiita. Mary mo ____ da
+ジョンがギターを弾いた。マリーも___だ。
+John ga gitaa wo hiita. Mary mo ___ da.
 ----
-John ga gitaa wo hiita. Mary mo gitaa wo hiita.
-# Translation: John played a guitar. Mary also
+ジョンがギターを弾いた。マリーもギターを弾いた。
+John ga gitaa wo hiita. Mary mo gitaa wo hiita
+# Translation: John played guitar, and Mary also.
 # Added by Soyoung Kim
 
 
 
+ヒロシが映画をみた。マサルも___だ。
 Hiroshi ga eiga wo mita. Masaru mo ___ da
 ----
+ヒロシが映画をみた。マサルも映画を見た。
 Hiroshi ga eiga wo mita. Masaru mo eiga wo mita
 # Translation eng: Hiroshi watched a movie. Masaru also (watched a movie)
 # Added by John Phillips
 
 
-
-Takeshi wa kami ga kitta. Hiromi mo ___ da
+武は髪を切った。ヒロミも___だ。
+Takeshi wa kami wo kitta. Hiromi mo ___ da
 ----
-Takeshi wa kami ga kitta. Hiromi mo kami ga kitta
+武は髪を切った。ヒロミも髪を切った。
+Takeshi wa kami wo kitta. Hiromi mo kami wo kitta
 # Added by John Phillips
 # Translation eng: Takeshi got a haircut, and Hiromi also (got a haircut)
 
 
-
-Takeshi ga raamen wo chuumonshita. Chikaku no hito mo ___ da
+武がラーメンを注文した。隣の人も___だ。
+Takeshi ga raamen wo chuumonshita. Tonari no hito mo ___ da
 ----
-Takeshi ga raamen wo chuumonshita. Chikaku no hito mo raamen wo chuumonshita
+武がラーメンを注文した。隣の人もラーメンを注文した。
+Takeshi ga raamen wo chuumonshita. Tonari no hito mo raamen wo chuumonshita
 # Added by John Phillips (adjusted by Soyoung as the original example was NP ellipsis)
-# Translation eng: Takeshi ordered ramen. Someone nearby also (ordered ramen)
+# Translation eng: Takeshi ordered ramen. Someone next also (ordered ramen)
 
 
 
+武が走った。花子も___だ。
 Takeshi ga hashitta. Hanako mo ___ da
 ----
+武が走った。花子も走った。
 Takeshi ga hashitta. Hanako mo hashitta
 # Added by John Phillips
 # Translation eng: Takeshi ran. Hanako also (ran)
 
 
-
-Takeshi ga toukyou daigaku ni itta hito to atta. Hiroshi mo ___ da
+武が東京大学に行った人に会った。ヒロシも___だ。
+Takeshi ga toukyou daigaku ni itta hito ni atta. Hiroshi mo ___ da
 ----
-Takeshi ga toukyou daigaku ni itta hito to atta. Hiroshi mo toukyou daigaku ni itta hito to atta
+武が東京大学に行った人に会った。ヒロシも東京大学に行った人に会った
+Takeshi ga toukyou daigaku ni itta hito ni atta. Hiroshi mo toukyou daigaku ni itta hito ni atta
 # Added by John Phillips
 # Translation eng: Takeshi met the person who went to tokyo university. Hiroshi also (met the person who went to tokyo university)
 
 
-
+武が色々な寿司を食べた。マサルも___だ。
 Takeshi ga iroiro na sushi wo tabeta. Masaru mo ___ da
 ----
+武が色々な寿司を食べた。マサルも色々な寿司を食べた。
 Takeshi ga iroiro na sushi wo tabeta. Masaru mo iroiro na sushi wo tabeta
 # Added by John Phillips
 # Translation eng: Takeshi ate many different types of sushi. Masaru also (ate many different types of sushi) 
 
 
 
+武がホテルを予約した。香織も___だ。
 Takeshi ga hoteru wo yoyakushita. Kaori mo ___ da
 ----
+武がホテルを予約した。香織もホテルを予約した。
 Takeshi ga hoteru wo yoyakushita. Kaori mo hoteru wo yoyakushita
 # Added by John Phillips 
 # Translation eng: Takeshi booked a hotel. Kaori also (booked a hotel)
 
 
 
+武があそこで死んだ。マサルも___だ。
 Takeshi ga asoko de shinda. Masaru mo ___ da
 ----
+武があそこで死んだ。マサルもあそこで死んだ。
 Takeshi ga asoko de shinda. Masaru mo asoko de shinda
 # Added by John Phillips
 # Translation eng: Takeshi died there. Masaru also (died there)
 
 
-
+武が歌った。香織も___だ。
 Takeshi ga utatta. Kaori mo ___ da
 ----
+武が歌った。香織も歌った。
 Takeshi ga utatta. Kaori mo utatta
 # Added by John Phillips
 # Takeshi sang. Kaori also sang
 
 
-
+武が授業をサボった。香織も___だ。
 Takeshi ga jugyou wo sabotta. Kaori mo ___ da
 ----
+武が授業をサボった。香織も授業をサボった。
 Takeshi ga jugyou wo sbotta. Kaori mo jugyou wo sabotta
 # Added by John Phillips
 # Translation eng: Takeshi skipped class. Kaori also (skipped class)
 
 
 
-Takeshi ga amerika de sundeiru. Kaori mo ___ da
+武はアメリカに住んでいる。香織も___だ。
+Takeshi ha amerika ni sundeiru. Kaori mo ___ da
 ----
-Takeshi ga amerika de sundeiru. Kaori mo amerika de sundeiru
+武はアメリカに住んでいる。香りもアメリがに住んでいる。
+Takeshi ha amerika ni sundeiru. Kaori mo amerika de sundeiru
 # Added by John Phillips
 # Translation eng: Takeshi lives in America. Kaori also (lives in America)
+# Grammar edited by Soyoung Kim
 
 
 
+武は甘いものが好きだ。香織も___だ。
 Takeshi wa amaimono ga suki da. Kaori mo ___ da
 ----
 Takeshi wa amaimono ga suki da. Kaori mo amaimono ga suki da.
@@ -147,6 +172,7 @@ Takeshi wa amaimono ga suki da. Kaori mo amaimono ga suki da.
 
 
 
+武がシャツを着た。香織も___だ。
 Takeshi ga shyatsu wo kita. Kaori mo ___ da
 ----
 Takeshi ga shyatsu wo kita. Kaori mo shyatsu wo kita.
